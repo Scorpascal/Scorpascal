@@ -2,10 +2,11 @@
 
 # Hi, I'm Scorpascal 👋
 
-### AI Student @ Renmin University of China
+### Undergraduate @ Gaoling School of Artificial Intelligence, RUC
 
-🎓 Gaoling School of Artificial Intelligence  
-🏫 Renmin University of China (RUC)
+**Artificial Intelligence · LLMs · Retrieval · Algorithms · Mathematical Modeling**
+
+📍 Renmin University of China
 
 </div>
 
@@ -13,18 +14,21 @@
 
 ## 👨‍💻 About Me
 
-I'm an undergraduate student at the **Gaoling School of Artificial Intelligence, Renmin University of China**.
+I'm an undergraduate student at the **Gaoling School of Artificial Intelligence, Renmin University of China (RUC)**.
 
-I'm interested in building intelligent systems and understanding the foundations behind them — from algorithms and machine learning to large language models and retrieval systems.
+I'm interested in both the **foundations of computer science** and the **engineering of modern AI systems**.  
+Currently, I'm exploring how algorithms, machine learning, retrieval systems, and large language models can be combined to build useful and reliable intelligent systems.
 
-Currently, I'm exploring:
+---
 
-- 🤖 Large Language Models & AI Systems
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🧠 Machine Learning & Deep Learning
-- 🧩 Algorithms & Data Structures
-- 📊 Mathematical Modeling
-- 💻 Software Engineering
+## 🔬 Interests
+
+- 🤖 **Large Language Models & AI Systems**
+- 🔍 **Retrieval-Augmented Generation (RAG)**
+- 🧠 **Machine Learning & Deep Learning**
+- 🧩 **Algorithms & Data Structures**
+- 📊 **Mathematical Modeling**
+- ⚙️ **AI Engineering**
 
 ---
 
@@ -32,26 +36,25 @@ Currently, I'm exploring:
 
 ### Languages
 
-`Python` · `C` · `C++` · `Java` · `LaTeX`
+`Python` · `C` · `C++` · `LaTeX`
 
-### AI & Machine Learning
+### AI & Data
 
-`PyTorch` · `LLMs` · `RAG` · `Machine Learning` · `Vector Search`
+`PyTorch` · `LLMs` · `RAG` · `Vector Search` · `Machine Learning`
 
 ### Development
 
-`Git` · `GitHub` · `VS Code` · `Ollama` · `Linux/macOS`
+`Git` · `GitHub` · `VS Code` · `Ollama` · `macOS / Linux`
 
 ---
 
-## 🚀 Projects
+## 🚀 Selected Work
 
-### 🏆 CUMCM 2026 — Problem C
+### 🏆 [CUMCM 2026 — Problem C](https://github.com/Scorpascal/CUMCM-2026-Problem-C)
 
-Mathematical modeling project for the  
-**China Undergraduate Mathematical Contest in Modeling (CUMCM 2026)**.
+Mathematical modeling project for the **China Undergraduate Mathematical Contest in Modeling (CUMCM 2026)**.
 
-> Modeling · Data Analysis · Scientific Computing · LaTeX
+`Mathematical Modeling` · `Data Analysis` · `Scientific Computing` · `LaTeX`
 
 ---
 
@@ -59,15 +62,7 @@ Mathematical modeling project for the
 
 Exploring modern information retrieval and Retrieval-Augmented Generation pipelines.
 
-> BM25 · Vector Search · Semantic Reranking · RAG · LLM
-
----
-
-### 🤖 AI & Computer Science Coursework
-
-Projects and experiments from my studies in computer science and artificial intelligence.
-
-> Algorithms · Machine Learning · AI Systems · Software Engineering
+`BM25` · `Vector Search` · `Semantic Reranking` · `RAG` · `LLMs`
 
 ---
 
@@ -75,13 +70,13 @@ Projects and experiments from my studies in computer science and artificial inte
 
 ```text
 Computer Science Foundations
-        ↓
+            ↓
 Algorithms & Data Structures
-        ↓
+            ↓
 Machine Learning
-        ↓
+            ↓
 Deep Learning
-        ↓
-LLMs & Retrieval Systems
-        ↓
-AI Engineering
+            ↓
+Large Language Models
+            ↓
+Retrieval & AI Systems
