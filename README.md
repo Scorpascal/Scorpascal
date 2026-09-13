@@ -2,11 +2,11 @@
 
 # Hi, I'm Scorpascal 👋
 
-### Undergraduate @ Gaoling School of Artificial Intelligence, RUC
+### Undergraduate Student @ Gaoling School of Artificial Intelligence, RUC
 
-**Artificial Intelligence · LLMs · Retrieval · Algorithms · Mathematical Modeling**
+**LLMs · Retrieval · AI Systems · Algorithms · Mathematical Modeling**
 
-📍 Renmin University of China
+🏫 Renmin University of China
 
 </div>
 
