@@ -50,9 +50,19 @@ Currently, I'm exploring how algorithms, machine learning, retrieval systems, an
 
 ## 🚀 Selected Work
 
-### 🏆 [CUMCM 2026 — Problem C](https://github.com/Scorpascal/CUMCM-2026-Problem-C)
+### ⚙️ [RUC_YOJ](https://github.com/Scorpascal/RUC_YOJ)
+
+An open-source toolkit and resource repository built around the **RUC YOJ online judge**, designed to organize problem data, verified solutions, and automated submission and validation workflows.
+
+`C++` · `Python` · `GitHub Actions` · `Automation` · `Online Judge` · `Algorithms`
+
+---
+
+### 🏆 CUMCM 2026 — Problem C
 
 Mathematical modeling project for the **China Undergraduate Mathematical Contest in Modeling (CUMCM 2026)**.
+
+The repository is currently kept private during the official evaluation period and will be made public **after the judging process has concluded**.
 
 `Mathematical Modeling` · `Data Analysis` · `Scientific Computing` · `LaTeX`
 
@@ -60,7 +70,7 @@ Mathematical modeling project for the **China Undergraduate Mathematical Contest
 
 ### 🔍 RAG Search & Retrieval System
 
-Exploring modern information retrieval and Retrieval-Augmented Generation pipelines.
+Exploring modern information retrieval and Retrieval-Augmented Generation pipelines, including lexical retrieval, vector search, semantic reranking, and RAG-based generation.
 
 `BM25` · `Vector Search` · `Semantic Reranking` · `RAG` · `LLMs`
 
@@ -80,3 +90,4 @@ Deep Learning
 Large Language Models
             ↓
 Retrieval & AI Systems
+```
