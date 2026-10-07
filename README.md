@@ -40,6 +40,8 @@ Alongside these projects, I continue to deepen my grounding in algorithms, syste
 
 ## Selected Work
 
+<p><sub>PUBLIC ENGINEERING &nbsp; / &nbsp; RESEARCH EXPLORATION &nbsp; / &nbsp; REUSABLE TOOLING</sub></p>
+
 <table width="100%">
 <tr><td>
 <p><a href="https://github.com/Scorpascal/RUC_YOJ"><img src="assets/project-yoj.svg" width="100%" alt="RUC_YOJ — public engineering toolkit"></a></p>
@@ -76,7 +78,7 @@ Alongside these projects, I continue to deepen my grounding in algorithms, syste
 
 ## Toolkit
 
-<p>
+<p align="center">
 <img src="assets/stack-code.svg" width="400" alt="Languages: Python, C, C++, LaTeX">
 <img src="assets/stack-tools.svg" width="400" alt="Tools: PyTorch, Git, GitHub Actions, command-line tools">
 </p>
