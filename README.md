@@ -5,7 +5,7 @@
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-dark.svg#still">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" width="100%" alt="Scorpascal — Research. Engineer. Explore. An animated orbital constellation.">
+  <img src="assets/hero-dark.svg" width="100%" alt="Scorpascal — Research. Engineer. Explore. An orbital constellation.">
 </picture>
 
 ### Building useful systems. Asking testable questions.
@@ -15,7 +15,7 @@ Undergraduate · **Gaoling School of Artificial Intelligence**
 
 <p>
 <code>AI Systems</code> &nbsp; ✧ &nbsp;
-<code>Human–Agent Collaboration</code> &nbsp; ✧ &nbsp;
+<code>Agent Research</code> &nbsp; ✧ &nbsp;
 <code>Research Tooling</code>
 </p>
 
@@ -32,45 +32,47 @@ Undergraduate · **Gaoling School of Artificial Intelligence**
 
 ## About
 
-I'm an undergraduate at the **Gaoling School of Artificial Intelligence, Renmin University of China (RUC)**, interested in both the **foundations of computer science** and the **engineering of reliable AI systems**.
+I'm an undergraduate at the **Gaoling School of Artificial Intelligence, Renmin University of China (RUC)**, working at the intersection of **computer science foundations, AI systems, and practical engineering**.
 
-My interests center on **human–agent collaboration, agent workflows, and tools for research**: how people stay informed as agents work, how evidence supports decisions, and how software remains understandable as tasks evolve. Alongside these explorations, I build practical tools and develop my grounding in algorithms, systems, and mathematical modeling.
+I build tools around real needs and explore how people can work effectively with AI agents. My interests center on **human–agent collaboration, agent workflows, and research infrastructure**: making execution understandable, evidence inspectable, and decisions revisable as a project evolves.
+
+Alongside these projects, I continue to deepen my grounding in algorithms, systems, machine learning, and mathematical modeling.
 
 ## Selected Work
 
 <table width="100%">
 <tr><td>
 <p><a href="https://github.com/Scorpascal/RUC_YOJ"><img src="assets/project-yoj.svg" width="100%" alt="RUC_YOJ — public engineering toolkit"></a></p>
-<p><strong>From online-judge archives to a usable toolkit.</strong></p>
-<p>Searchable problem archives, solution code, verification workflows, and quick-submission tools for the RUC YOJ online judge. Built around the full path from data organization to a maintainable, user-facing tool.</p>
+<p><strong>A campus need, engineered into a usable tool.</strong></p>
+<p>A searchable archive and companion toolkit for the RUC YOJ online judge, connecting problem data, solution code, verification, and quick-submission workflows. An engineering project spanning data organization, user-facing tools, and automated publication.</p>
 <p><code>C++</code> <code>Python</code> <code>Automation</code> <code>GitHub Pages</code></p>
 <p><a href="https://scorpascal.github.io/RUC_YOJ/">Explore the website&nbsp;↗</a> &nbsp; · &nbsp; <a href="https://github.com/Scorpascal/RUC_YOJ">View the repository&nbsp;↗</a></p>
 </td></tr>
 <tr><td>
 <p><img src="assets/project-sync.svg" width="100%" alt="HumanAgentSync — private research exploration"></p>
 <p><strong>Shared understanding between people and agents.</strong></p>
-<p>Exploratory work on human–agent collaboration, execution transparency, and evaluation reliability. A workspace for concrete questions, critical reading, empirical checks, and traceable research decisions.</p>
-<p><code>Human–Agent Interaction</code> <code>Evaluation</code> <code>Reproducibility</code></p>
-<p><sub>🔒 Private · High-level overview only</sub></p>
+<p>A research workspace exploring human–agent collaboration, execution transparency, and evaluation reliability. Connects concrete questions with critical reading, empirical checks, and traceable decisions—without treating an implementation as proof of a research claim.</p>
+<p><code>Human–Agent Interaction</code> <code>Agent Evaluation</code> <code>Reproducibility</code></p>
+<p><sub>🔒 Private research · High-level overview only</sub></p>
 </td></tr>
 <tr><td>
 <p><img src="assets/project-research.svg" width="100%" alt="ScorResearch — private research tooling"></p>
-<p><strong>Research decisions that can be revisited.</strong></p>
-<p>Tools for organizing evidence, reevaluating directions, and planning around changing resources. Combines agent-facing workflows with versioned state, structured checks, and reproducible tooling.</p>
+<p><strong>Research decisions that can evolve with the evidence.</strong></p>
+<p>Agent-oriented tooling for organizing evidence, revisiting research directions, and adapting plans to changing resources. Combines flexible model-based reasoning with structured project state, versioned records, and explicit handoffs.</p>
 <p><code>Python</code> <code>CLI Tooling</code> <code>State Management</code> <code>Testing</code></p>
-<p><sub>🔒 Private · High-level overview only</sub></p>
+<p><sub>🔒 Private tooling · High-level overview only</sub></p>
 </td></tr>
 </table>
 
 ## How I Work
 
-<p><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/workflow.svg#still"><img src="assets/workflow.svg" width="100%" alt="My working loop: question, build, verify, refine. This animation is illustrative, not a live progress indicator."></picture></p>
+<p><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/workflow.svg#still"><img src="assets/workflow.svg" width="100%" alt="My working loop: question, build, verify, refine. A process illustration, not a live progress indicator."></picture></p>
 
-**Start with the problem.** Turn practical friction into a specific question, a small experiment, or a useful tool.
+**Problem first.** Start with a real need, define the constraints, and turn an open-ended idea into a concrete question or useful tool.
 
-**Make the work checkable.** Keep tests, evidence, and reproducible steps close to the conclusions they support; distinguish what runs from what has been validated.
+**Evidence before confidence.** Keep tests, sources, and reproducible steps close to the claims they support. Distinguish a working implementation from a validated conclusion.
 
-**Use agents deliberately.** Automate repeatable work while keeping requirements, review, and decisions explicit. Revise the plan when the evidence changes.
+**Agent-assisted, human-directed.** Automate repeatable work while keeping requirements, review, and decisions explicit. Change the plan when the evidence changes.
 
 ## Toolkit
 
@@ -79,8 +81,8 @@ My interests center on **human–agent collaboration, agent workflows, and tools
 <img src="assets/stack-tools.svg" width="400" alt="Tools: PyTorch, Git, GitHub Actions, command-line tools">
 </p>
 
-**AI & experimentation:** local model workflows, Ollama, and experiment scripting.  
-**Engineering:** automated tests, code review, reproducible tooling, and GitHub workflows.  
+**AI & experimentation:** PyTorch, local model workflows, Ollama, and experiment scripting.  
+**Engineering:** command-line tools, automated tests, code review, and reproducible GitHub workflows.  
 **Environment:** VS Code · macOS · Linux.
 
 <details>
@@ -88,11 +90,11 @@ My interests center on **human–agent collaboration, agent workflows, and tools
 
 <br>
 
-**Systems & algorithms:** C/C++ programming, bit-level reasoning, [Data Lab exercises](https://github.com/Scorpascal/datalab2026) (course fork), and data-structure implementations.
+**Systems & algorithms** — C/C++ programming, bit-level reasoning, [Data Lab exercises](https://github.com/Scorpascal/datalab2026) (course fork), and data-structure implementations.
 
-**Mathematical modeling — CUMCM:** problem formulation, numerical computation, validation, and technical writing for a competition project. The project materials are private.
+**Mathematical modeling — CUMCM** — problem formulation, numerical computation, validation, and technical writing for a competition project. The project materials are private.
 
-**Retrieval & RAG:** a course assignment exploring lexical retrieval, vector search, semantic reranking, and retrieval-augmented generation.
+**Retrieval & RAG — course assignment** — lexical retrieval, vector search, semantic reranking, and retrieval-augmented generation.
 
 </details>
 
