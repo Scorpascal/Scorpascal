@@ -1,32 +1,34 @@
 <div align="center">
 
-<p><sub>COMPUTER SCIENCE FOUNDATIONS &nbsp; / &nbsp; RESEARCH &nbsp; / &nbsp; ENGINEERING</sub></p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="assets/hero-light.svg#still">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-dark.svg#still">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero-dark.svg" width="100%" alt="Scorpascal — Research. Engineer. Explore. An animated orbital constellation.">
+</picture>
 
-<h1>Scorpascal</h1>
+### Building useful systems. Asking testable questions.
 
-<p><strong>Building useful systems. Asking testable questions.</strong></p>
+Undergraduate · **Gaoling School of Artificial Intelligence**  
+**Renmin University of China**
 
 <p>
-Undergraduate · Gaoling School of Artificial Intelligence<br>
-Renmin University of China
-</p>
-
-<p>
-<code>AI Systems</code> &nbsp;
-<code>Human–Agent Collaboration</code> &nbsp;
+<code>AI Systems</code> &nbsp; ✧ &nbsp;
+<code>Human–Agent Collaboration</code> &nbsp; ✧ &nbsp;
 <code>Research Tooling</code>
 </p>
 
 <p>
-<a href="#about">About</a> &nbsp; · &nbsp;
-<a href="#selected-work">Selected Work</a> &nbsp; · &nbsp;
-<a href="#how-i-work">How I Work</a> &nbsp; · &nbsp;
+<a href="#about">About</a> &nbsp; / &nbsp;
+<a href="#selected-work">Selected Work</a> &nbsp; / &nbsp;
+<a href="#how-i-work">How I Work</a> &nbsp; / &nbsp;
 <a href="#toolkit">Toolkit</a>
 </p>
 
 </div>
 
----
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/divider.svg#still"><img src="assets/divider.svg" width="100%" alt=""></picture>
 
 ## About
 
@@ -36,54 +38,53 @@ My interests center on **human–agent collaboration, agent workflows, and tools
 
 ## Selected Work
 
-<table>
-<tr>
-<td colspan="2" valign="top">
-<p><sub>01 &nbsp; / &nbsp; PUBLIC ENGINEERING</sub></p>
-<h3><a href="https://github.com/Scorpascal/RUC_YOJ">RUC_YOJ ↗</a></h3>
+<table width="100%">
+<tr><td>
+<p><a href="https://github.com/Scorpascal/RUC_YOJ"><img src="assets/project-yoj.svg" width="100%" alt="RUC_YOJ — public engineering toolkit"></a></p>
 <p><strong>From online-judge archives to a usable toolkit.</strong></p>
-<p>A project built around the RUC YOJ online judge, bringing together searchable problem archives, solution code, verification workflows, and quick-submission tools. My focus here is the full path from data organization to a maintainable, user-facing tool.</p>
-<p><sub>C++ · Python · Automation · GitHub Pages</sub></p>
-<p><a href="https://scorpascal.github.io/RUC_YOJ/">Explore the website →</a> &nbsp; · &nbsp; <a href="https://github.com/Scorpascal/RUC_YOJ">View the repository →</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<p><sub>02 &nbsp; / &nbsp; RESEARCH EXPLORATION · PRIVATE</sub></p>
-<h3>HumanAgent<wbr>Sync</h3>
+<p>Searchable problem archives, solution code, verification workflows, and quick-submission tools for the RUC YOJ online judge. Built around the full path from data organization to a maintainable, user-facing tool.</p>
+<p><code>C++</code> <code>Python</code> <code>Automation</code> <code>GitHub Pages</code></p>
+<p><a href="https://scorpascal.github.io/RUC_YOJ/">Explore the website&nbsp;↗</a> &nbsp; · &nbsp; <a href="https://github.com/Scorpascal/RUC_YOJ">View the repository&nbsp;↗</a></p>
+</td></tr>
+<tr><td>
+<p><img src="assets/project-sync.svg" width="100%" alt="HumanAgentSync — private research exploration"></p>
 <p><strong>Shared understanding between people and agents.</strong></p>
 <p>Exploratory work on human–agent collaboration, execution transparency, and evaluation reliability. A workspace for concrete questions, critical reading, empirical checks, and traceable research decisions.</p>
-<p><sub>Human–Agent Interaction · Evaluation · Reproducibility</sub></p>
-</td>
-<td width="50%" valign="top">
-<p><sub>03 &nbsp; / &nbsp; RESEARCH TOOLING · PRIVATE</sub></p>
-<h3>ScorResearch</h3>
+<p><code>Human–Agent Interaction</code> <code>Evaluation</code> <code>Reproducibility</code></p>
+<p><sub>🔒 Private · High-level overview only</sub></p>
+</td></tr>
+<tr><td>
+<p><img src="assets/project-research.svg" width="100%" alt="ScorResearch — private research tooling"></p>
 <p><strong>Research decisions that can be revisited.</strong></p>
-<p>A research tooling project for organizing evidence, reevaluating directions, and planning around changing resources. Combines agent-facing workflows with versioned state, structured checks, and reproducible tooling.</p>
-<p><sub>Python · CLI Tooling · State Management · Testing</sub></p>
-</td>
-</tr>
+<p>Tools for organizing evidence, reevaluating directions, and planning around changing resources. Combines agent-facing workflows with versioned state, structured checks, and reproducible tooling.</p>
+<p><code>Python</code> <code>CLI Tooling</code> <code>State Management</code> <code>Testing</code></p>
+<p><sub>🔒 Private · High-level overview only</sub></p>
+</td></tr>
 </table>
-
-<sub>Private projects are presented at a high level; source code and detailed research materials are not published here.</sub>
 
 ## How I Work
 
-- **Start with the problem.** Turn practical friction into a specific question, a small experiment, or a useful tool.
-- **Make the work checkable.** Keep tests, evidence, and reproducible steps close to the conclusions they support; distinguish what runs from what has been validated.
-- **Use agents deliberately.** Automate repeatable work while keeping requirements, review, and decisions explicit. Revise the plan when the evidence changes.
+<p><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/workflow.svg#still"><img src="assets/workflow.svg" width="100%" alt="My working loop: question, build, verify, refine. This animation is illustrative, not a live progress indicator."></picture></p>
+
+**Start with the problem.** Turn practical friction into a specific question, a small experiment, or a useful tool.
+
+**Make the work checkable.** Keep tests, evidence, and reproducible steps close to the conclusions they support; distinguish what runs from what has been validated.
+
+**Use agents deliberately.** Automate repeatable work while keeping requirements, review, and decisions explicit. Revise the plan when the evidence changes.
 
 ## Toolkit
 
-| Area | Tools & practices |
-| :--- | :--- |
-| **Languages** | `Python` · `C` · `C++` · `LaTeX` |
-| **AI & experimentation** | `PyTorch` · `Ollama` · Local model workflows · Experiment scripting |
-| **Engineering** | `Git` · `GitHub Actions` · Command-line tools · Automated tests · Code review |
-| **Environment** | `VS Code` · `macOS` · `Linux` |
+<p>
+<img src="assets/stack-code.svg" width="400" alt="Languages: Python, C, C++, LaTeX">
+<img src="assets/stack-tools.svg" width="400" alt="Tools: PyTorch, Git, GitHub Actions, command-line tools">
+</p>
+
+**AI & experimentation:** local model workflows, Ollama, and experiment scripting.  
+**Engineering:** automated tests, code review, reproducible tooling, and GitHub workflows.  
+**Environment:** VS Code · macOS · Linux.
 
 <details>
-<summary><strong>Foundations, coursework & mathematical modeling</strong></summary>
+<summary><strong>📚 Foundations, coursework & mathematical modeling</strong></summary>
 
 <br>
 
@@ -95,8 +96,9 @@ My interests center on **human–agent collaboration, agent workflows, and tools
 
 </details>
 
----
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/divider.svg#still"><img src="assets/divider.svg" width="100%" alt=""></picture>
 
 <p align="center">
-<strong>Understand the fundamentals. Build something useful. Keep the evidence close.</strong>
+<strong>Understand the fundamentals. Build something useful. Keep the evidence close.</strong><br>
+<sub>✦ &nbsp; CURIOSITY &nbsp; / &nbsp; CLARITY &nbsp; / &nbsp; CRAFT &nbsp; ✦</sub>
 </p>
