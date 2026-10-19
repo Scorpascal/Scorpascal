@@ -40,7 +40,7 @@ Alongside these projects, I continue to deepen my grounding in algorithms, syste
 
 ## Selected Work
 
-<p><sub>PUBLIC ENGINEERING &nbsp; / &nbsp; RESEARCH EXPLORATION &nbsp; / &nbsp; REUSABLE TOOLING</sub></p>
+<p><sub>PUBLIC ENGINEERING &nbsp; / &nbsp; MATHEMATICAL MODELING &nbsp; / &nbsp; RESEARCH EXPLORATION</sub></p>
 
 <table width="100%">
 <tr><td>
@@ -49,6 +49,14 @@ Alongside these projects, I continue to deepen my grounding in algorithms, syste
 <p>A searchable archive and companion toolkit for the RUC YOJ online judge, connecting problem data, solution code, verification, and quick-submission workflows. An engineering project spanning data organization, user-facing tools, and automated publication.</p>
 <p><code>C++</code> <code>Python</code> <code>Automation</code> <code>GitHub Pages</code></p>
 <p><a href="https://scorpascal.github.io/RUC_YOJ/">Explore the website&nbsp;↗</a> &nbsp; · &nbsp; <a href="https://github.com/Scorpascal/RUC_YOJ">View the repository&nbsp;↗</a></p>
+</td></tr>
+<tr><td>
+<p><a href="https://github.com/Scorpascal/CUMCM-2026-Problem-C-Public"><img src="assets/project-cumcm.svg" width="100%" alt="CUMCM 2026 — public mathematical modeling project"></a></p>
+<p><strong>From energy constraints to testable scheduling decisions.</strong></p>
+<p>A team project on microgrid scheduling for CUMCM 2026, Problem C, covering day-ahead optimization, forecast uncertainty, and intraday rolling decisions. Public materials connect Python implementations with an archived paper, five result workbooks, and explicit validation records.</p>
+<p><code>Python</code> <code>Optimization</code> <code>Forecasting</code> <code>Numerical Validation</code></p>
+<p><sub>🏆 First Prize, Beijing Region · CUMCM 2026 · 北京市一等奖</sub></p>
+<p><a href="https://github.com/Scorpascal/CUMCM-2026-Problem-C-Public">View the repository&nbsp;↗</a> &nbsp; · &nbsp; <a href="https://github.com/Scorpascal/CUMCM-2026-Problem-C-Public/blob/main/paper/C%E9%A2%98%E6%9C%80%E7%BB%88%E8%AE%BA%E6%96%87.pdf">Read the paper&nbsp;↗</a> &nbsp; · &nbsp; <a href="https://github.com/Scorpascal/CUMCM-2026-Problem-C-Public/releases/tag/public-v1.0.0">Browse the release&nbsp;↗</a></p>
 </td></tr>
 <tr><td>
 <p><img src="assets/project-sync.svg" width="100%" alt="HumanAgentSync — private research exploration"></p>
@@ -94,7 +102,7 @@ Alongside these projects, I continue to deepen my grounding in algorithms, syste
 
 **Systems & algorithms** — C/C++ programming, bit-level reasoning, [Data Lab exercises](https://github.com/Scorpascal/datalab2026) (course fork), and data-structure implementations.
 
-**Mathematical modeling — CUMCM** — problem formulation, numerical computation, validation, and technical writing for a competition project. The project materials are private.
+**Mathematical modeling — [CUMCM 2026 · Problem C](https://github.com/Scorpascal/CUMCM-2026-Problem-C-Public)** — problem formulation, numerical computation, validation, and technical writing for a team competition project. A sanitized public edition includes code, the archived paper, numerical results, and reproduction instructions; official inputs must be obtained separately.
 
 **Retrieval & RAG — course assignment** — lexical retrieval, vector search, semantic reranking, and retrieval-augmented generation.
 
